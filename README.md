@@ -17,3 +17,8 @@ Accepted paper Link: https://openaccess.thecvf.com/content/ICCV2021W/CVPPA/paper
 
 # Quantitative results
 ![Challenge page](Quantitative_results.PNG)
+
+
+Code referance:
+- Website: https://pylessons.com/
+- GitHub: https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3
